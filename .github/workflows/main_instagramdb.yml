@@ -61,4 +61,4 @@ jobs:
           app-name: 'InstagramDB'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28A63BA29CF7467691E4645F9BEB9F34 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2457ABC298104E70A3955644D9A810E3 }}
